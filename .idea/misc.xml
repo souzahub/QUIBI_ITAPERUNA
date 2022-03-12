@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/drawable-anydpi-v24/ic_stat_name.xml" value="0.29635416666666664" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.29635416666666664" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28541666666666665" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/drawable/ic_channel_foreground.xml" value="0.29635416666666664" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.29635416666666664" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/drawable/ic_launcher_qibi_background.xml" value="0.28541666666666665" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/font/cutive.xml" value="0.2994791666666667" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/mipmap-anydpi-v26/ic_channel.xml" value="0.29635416666666664" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3723958333333333" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_qibi.xml" value="0.28541666666666665" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_qibi_round.xml" value="0.28541666666666665" />
+        <entry key="..\:/DEV/ANDROID/QUIBICANTATA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.28541666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
